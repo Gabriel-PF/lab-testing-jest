@@ -1,3 +1,4 @@
+
 function centsToDecimals(centValue) {
   if (typeof centValue !== 'number' || isNaN(centValue)) {
     return undefined;

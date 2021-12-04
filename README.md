@@ -20,7 +20,8 @@ Up to this point, you have worked with tests in almost every lab. Tests were wri
 
 Now, the time has come to get your hands (at least a bit) dirty with writing some basic tests using Jest framework.
 
-A friendly reminder - you will be developing tests for just one small piece of code, just one function better saying. In this case, we are talking about you developing _unit_ tests, since you will be testing just one _"unit"_ or a small component of your (imaginary) whole application. To learn more about unit (and integration) tests, check the extra resources section.
+A friendly reminder - you will be developing tests for just one small piece of code, just one function better saying. In this case, we are talking about you developing _unit_ tests, since you will be testing just one _"unit"_ or a small component of your (imaginary) whole application. To learn more
+ about unit (and integration) tests, check the extra resources section.
 
 <br>
 
